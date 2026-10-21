@@ -1,0 +1,1 @@
+{"name": "vorlage", "description": "Beispiel: dreht Text um und zaehlt Woerter", "tools": {"umdrehen": "Dreht einen Text um", "woerter": "Zaehlt Woerter"}, "permissions": [], "timeout_s": 5}
